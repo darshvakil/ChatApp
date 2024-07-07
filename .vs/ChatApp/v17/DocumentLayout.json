@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07A774F-21BF-4725-8120-2D4FB762CE6D}|ChatApp.Server\\ChatApp.Server.csproj|d:\\sheridan\\semester 4\\.net\\chatapp\\chatapp\\chatapp.server\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07A774F-21BF-4725-8120-2D4FB762CE6D}|ChatApp.Server\\ChatApp.Server.csproj|solutionrelative:chatapp.server\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|d:\\sheridan\\semester 4\\.net\\chatapp\\chatapp\\chatapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|solutionrelative:chatapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07A774F-21BF-4725-8120-2D4FB762CE6D}|ChatApp.Server\\ChatApp.Server.csproj|d:\\sheridan\\semester 4\\.net\\chatapp\\chatapp\\chatapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07A774F-21BF-4725-8120-2D4FB762CE6D}|ChatApp.Server\\ChatApp.Server.csproj|solutionrelative:chatapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|d:\\sheridan\\semester 4\\.net\\chatapp\\chatapp\\chatapp.client\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|solutionrelative:chatapp.client\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|d:\\sheridan\\semester 4\\.net\\chatapp\\chatapp\\chatapp.client\\src\\signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|solutionrelative:chatapp.client\\src\\signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07A774F-21BF-4725-8120-2D4FB762CE6D}|ChatApp.Server\\ChatApp.Server.csproj|d:\\sheridan\\semester 4\\.net\\chatapp\\chatapp\\chatapp.server\\chatapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A07A774F-21BF-4725-8120-2D4FB762CE6D}|ChatApp.Server\\ChatApp.Server.csproj|solutionrelative:chatapp.server\\chatapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|d:\\sheridan\\semester 4\\.net\\chatapp\\chatapp\\chatapp.client\\chatapp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FDBC0E1-71CF-4257-A81A-A21615C5BDF4}|chatapp.client\\chatapp.client.esproj|solutionrelative:chatapp.client\\chatapp.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\public\\index.html",
+              "RelativeDocumentMoniker": "chatapp.client\\public\\index.html",
+              "ToolTip": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\public\\index.html",
+              "RelativeToolTip": "chatapp.client\\public\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-05T21:07:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "chatapp.client\\src\\main.jsx",
+              "ToolTip": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\src\\main.jsx",
+              "RelativeToolTip": "chatapp.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-05T21:04:06.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signalr.js",
+              "DocumentMoniker": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\src\\signalr.js",
+              "RelativeDocumentMoniker": "chatapp.client\\src\\signalr.js",
+              "ToolTip": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\src\\signalr.js",
+              "RelativeToolTip": "chatapp.client\\src\\signalr.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-05T21:03:45.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\ChatApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp.Server\\Program.cs",
+              "ToolTip": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\ChatApp.Server\\Program.cs",
+              "RelativeToolTip": "ChatApp.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:00:30.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\ChatApp.Server\\Hub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatApp.Server\\Hub\\ChatHub.cs",
+              "ToolTip": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\ChatApp.Server\\Hub\\ChatHub.cs",
+              "RelativeToolTip": "ChatApp.Server\\Hub\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:52:23.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatApp.Server.csproj",
+              "DocumentMoniker": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\ChatApp.Server\\ChatApp.Server.csproj",
+              "RelativeDocumentMoniker": "ChatApp.Server\\ChatApp.Server.csproj",
+              "ToolTip": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\ChatApp.Server\\ChatApp.Server.csproj",
+              "RelativeToolTip": "ChatApp.Server\\ChatApp.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T20:46:32.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chatapp.client.esproj",
+              "DocumentMoniker": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\chatapp.client.esproj",
+              "RelativeDocumentMoniker": "chatapp.client\\chatapp.client.esproj",
+              "ToolTip": "D:\\Sheridan\\Semester 4\\.NET\\ChatApp\\ChatApp\\chatapp.client\\chatapp.client.esproj",
+              "RelativeToolTip": "chatapp.client\\chatapp.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-05T20:18:34.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
